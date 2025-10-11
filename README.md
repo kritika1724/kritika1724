@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kritika Trivedi</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">A  fullstack developer from India</h3>
 
 - 📫 How to reach me **trivedikritika21@gmail.com**
 
